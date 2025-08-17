@@ -7,7 +7,7 @@
 Soy un desarrollador apasionado por la creación de soluciones web, con experiencia en el desarrollo tanto del lado del cliente como del servidor.  
 Me enfoco en construir aplicaciones **robustas, escalables y eficientes**.  
 
-📌 Actualmente, estoy aprendiendo y profundizando en **Astro** **Next.js** y **Docker**.
+📌 Actualmente, estoy aprendiendo y profundizando en **Astro**, **Next.js** y **Docker**.
 
 ---
 
