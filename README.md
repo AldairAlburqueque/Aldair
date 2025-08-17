@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hola, soy Aldair</h1>
-<h3 align="center">🚀 Desarrollador Full Stack de Perú 🇵🇪</h3>
+<h3 align="center">🚀 Desarrollador Web Full Stack de Perú 🇵🇪</h3>
 
 ---
 
@@ -46,8 +46,11 @@ Aquí tienes un resumen de las tecnologías con las que trabajo:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
   </a>&nbsp;&nbsp;
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  </a>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" 
+       alt="express" width="40" height="40" 
+       style="background-color:white; padding:5px; border-radius:8px;"/>
+</a>&nbsp;&nbsp;
+
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
   </a>
