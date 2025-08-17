@@ -4,7 +4,7 @@
 ---
 
 ### 💻 Acerca de mí
-Soy un desarrollador apasionado por la creación de soluciones web, con experiencia en el desarrollo tanto del lado del cliente como del servidor. Me enfoco en construir aplicaciones robustas, escalables y eficientes. Actualmente, estoy expandiendo mis conocimientos en **[menciona aquí alguna tecnología nueva en la que estés trabajando, por ejemplo: Docker, AWS, etc.]**.
+Soy un desarrollador apasionado por la creación de soluciones web, con experiencia en el desarrollo tanto del lado del cliente como del servidor. Me enfoco en construir aplicaciones robustas, escalables y eficientes. Actualmente, estoy expandiendo mis conocimientos en Astro y Docker.
 
 ---
 
